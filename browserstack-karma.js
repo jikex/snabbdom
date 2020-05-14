@@ -100,4 +100,4 @@ module.exports = {
     os_version: '7',
   },
   */
-};
+}
